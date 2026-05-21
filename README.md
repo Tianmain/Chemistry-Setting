@@ -9,9 +9,9 @@
 
 This is the **standalone build** (executable version) of the Chemistry 3D molecule editor.
 
-**🔗 Source Code**: https://github.com/Tianmain/Chemistry
+**Source Code**: https://github.com/Tianmain/Chemistry
 
-### 📥 Quick Start
+### Quick Start
 
 1. **Download** this repository or download the release
 2. **Run** `Chemistry.exe` (Windows only)
@@ -19,7 +19,7 @@ This is the **standalone build** (executable version) of the Chemistry 3D molecu
 
 No Unity installation required - just download and play!
 
-### ✨ Features
+### Features
 
 #### Core Features
 - **15 Element System** - Supports various chemical elements including Hydrogen, Carbon, Nitrogen, Oxygen, Sulfur, Sodium, etc.
@@ -35,7 +35,7 @@ No Unity installation required - just download and play!
 - **Real-time Info Display** - Shows detailed info when selecting elements (bond type, rotation angle, etc.)
 - **Source Han Sans Font** - High-quality Chinese text rendering
 
-### 🎮 Controls
+### Controls
 
 | Action | Key / Description |
 |--------|-------------------|
@@ -47,18 +47,11 @@ No Unity installation required - just download and play!
 | Undo | `Ctrl + Z` |
 | Redo | `Ctrl + Y` |
 
-### 💻 System Requirements
-
-- **OS**: Windows 10/11
-- **RAM**: 4GB minimum
-- **GPU**: DirectX 11 compatible
-- **Storage**: ~100MB free space
-
-### 📄 License
+### License
 
 This project is for personal learning and research purposes only.
 
-### 🙋 Contact
+### Contact
 
 - GitHub: [@Tianmain](https://github.com/Tianmain)
 - Source Code: https://github.com/Tianmain/Chemistry
@@ -76,17 +69,15 @@ This project is for personal learning and research purposes only.
 
 这是 Chemistry 3D 化学分子编辑器的**独立构建版**（可执行版本）。
 
-**🔗 源代码**: https://github.com/Tianmain/Chemistry
+**源代码**: https://github.com/Tianmain/Chemistry
 
-### 📥 快速开始
+### 快速开始
 
 1. **下载**本仓库或下载发布版本
 2. **运行** `Chemistry.exe`（仅支持 Windows）
 3. **开始**创建和编辑分子！
 
-无需安装 Unity - 下载即可运行！
-
-### ✨ 功能特性
+### 功能特性
 
 #### 核心功能
 - **15 种元素系统** - 支持氢、碳、氮、氧、硫、钠等多种化学元素
@@ -102,7 +93,7 @@ This project is for personal learning and research purposes only.
 - **实时信息显示** - 选中元素时显示详细信息（键类型、旋转角度等）
 - **Source Han Sans 字体** - 优质的中文显示效果
 
-### 🎮 操作说明
+### 操作说明
 
 | 操作 | 按键/说明 |
 |------|-----------|
@@ -114,18 +105,11 @@ This project is for personal learning and research purposes only.
 | 撤销 | `Ctrl + Z` |
 | 重做 | `Ctrl + Y` |
 
-### 💻 系统要求
-
-- **操作系统**: Windows 10/11
-- **内存**: 至少 4GB
-- **显卡**: 支持 DirectX 11
-- **存储空间**: 约 100MB 可用空间
-
-### 📄 许可证
+### 许可证
 
 本项目为个人学习研究项目，仅供学习交流使用。
 
-### 🙋 联系方式
+### 联系方式
 
 - GitHub: [@Tianmain](https://github.com/Tianmain)
 - 源代码: https://github.com/Tianmain/Chemistry
