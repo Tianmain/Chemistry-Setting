@@ -58,7 +58,7 @@ This project is for personal learning and research purposes only.
 
 ---
 
-⚗️ *Making chemistry molecule editing more intuitive with Unity*
+*Making chemistry molecule editing more intuitive with Unity*
 
 ---
 
@@ -116,4 +116,4 @@ This project is for personal learning and research purposes only.
 
 ---
 
-⚗️ *用 Unity 让化学分子编辑更直观*
+*用 Unity 让化学分子编辑更直观*
