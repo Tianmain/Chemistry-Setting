@@ -1,0 +1,11 @@
+# Unity Build Output
+# This repo contains Unity build output for Chemistry project
+
+# Temporarily comment out exclusions to upload all files
+# Uncomment below to exclude build files in future commits
+
+# *.exe
+# *.dll  
+# Chemistry_Data/
+# MonoBleedingEdge/
+# *.pdb
